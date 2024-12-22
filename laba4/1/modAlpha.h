@@ -1,7 +1,7 @@
 /** @file modAlpha.h
- * @author Алипов С.А.
+ * @author Иванов Л.О.
  * @version 1.0
- * @date 06.12.2024
+ * @date 15.12.2024
  * @copyright ИБСТ ПГУ
  * @warning Это учебный пример
  * @brief Заголовочный файл для модуля Гронсфельда
